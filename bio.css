@@ -1,0 +1,39 @@
+body{
+background-color:white;
+background-color: rgb(226, 187, 187);
+box-sizing: border-box;
+font-size:vw;
+
+}
+header{
+    text-align: center;
+    background-color: rgb(25, 145, 163); 
+    margin: 10px;  
+}
+div.bio{
+border: 4px ;
+border-style: solid;
+padding-top :50px;
+padding-bottom:50px ;
+margin:60px;
+border-radius:7px;
+text-align: center;
+background-color: whitesmoke;
+font-size:vw;
+box-sizing: border-box;
+}
+
+span{
+color:rgb(196, 84, 43);
+}
+footer{
+    border: 5px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(2, 2, 2);
+    box-sizing: border-box;
+
+}
+
